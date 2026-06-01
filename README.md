@@ -45,14 +45,4 @@ Passionate about building amazing web applications, mobile apps, and exploring n
 - Student ID: 231011401201
 - Currently pursuing bachelor's degree with focus on web development and mobile applications
 
----
-
-## 📊 GitHub Statistics
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mhmdrhndeve&show_icons=true&theme=dark&bg_color=0d1117&border_color=30363d)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?mhmdrhndev-code&layout=compact&theme=dark&bg_color=0d1117&border_color=30363d)
-
----
-
 </div>
