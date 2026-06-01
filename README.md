@@ -1,10 +1,6 @@
 # Hi, I'm Muhammad Raihan!
 
----
-
-<img align="right" height="200" width="300" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExZWphOGx3d3I3bXhsY2V6NGJnZWhwaTM5YTV4MGsxb2ZrZm43M2U2ciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/bGgsc5mWoryfgKBx1u/giphy.webp"  />
-
----
+<img align="right" height="220" width="320" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExZWphOGx3d3I3bXhsY2V6NGJnZWhwaTM5YTV4MGsxb2ZrZm43M2U2ciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/bGgsc5mWoryfgKBx1u/giphy.webp"  />
 
 [![My Skills](https://skillicons.dev/icons?i=python,java,js,ts,html,css&theme=dark)](https://skillicons.dev) [![My Skills](https://skillicons.dev/icons?i=react,tailwind,vercel&theme=dark)](https://skillicons.dev) [![My Skills](https://skillicons.dev/icons?i=androidstudio,firebase,supabase&theme=dark)](https://skillicons.dev) [![My Skills](https://skillicons.dev/icons?i=git,vscode,github,google&theme=dark)](https://skillicons.dev)
 
