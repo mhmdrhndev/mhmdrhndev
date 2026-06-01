@@ -31,11 +31,13 @@ Passionate about building amazing web applications, mobile apps, and exploring n
 **Mobile & Backend:**
 ![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84?style=flat-square&logo=androidstudio&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white)
 
 **Other Tools:**
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![Google Maps API](https://img.shields.io/badge/Google%20Maps%20API-4285F4?style=flat-square&logo=googlemaps&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
+![Google Antigravity](https://img.shields.io/badge/Google%20Antigravity-4285F4?style=flat-square&logo=google&logoColor=white)
 
 ---
 
