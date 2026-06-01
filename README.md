@@ -1,8 +1,8 @@
-# 👋 Hi, I'm Muhammad Raihan!
+# Hi, I'm Muhammad Raihan!
 
 ### Teknik Informatika Student | Full Stack Developer | Tech Enthusiast
 
-Passionate about building amazing web applications, mobile apps, and exploring new technologies. Currently studying at Universitas Pamulang with hands-on experience in web programming, mobile development, and IoT projects.
+Passionate about building amazing web applications, mobile apps, and exploring new technologies. Currently studying at Universitas Pamulang with hands-on experience in web programming, mobile development.
 
 ---
 
@@ -39,34 +39,6 @@ Passionate about building amazing web applications, mobile apps, and exploring n
 
 ---
 
-## 🚀 Featured Projects
-
-### 📍 **My Maps - Android Mobile App**
-Aplikasi Android yang mengintegrasikan Google Maps API dengan fitur Geolocation. Dibangun dengan Java dan Android Studio sebagai project akhir Mobile Programming course di UNPAM.
-- **Tech:** Java, Android Studio, Google Maps API, Geolocation
-- **Status:** ✅ Completed (Pertemuan 14)
-
-### 🎬 **Netflix-Style Streaming Website**
-Website streaming dengan design dan user experience mirip Netflix. Full responsive dan interactive user interface.
-- **Tech:** HTML, CSS, JavaScript
-- **Features:** Responsive Design, Dynamic Content
-
-### 🔥 **IoT Fire Detection System**
-Sistem deteksi kebakaran real-time menggunakan IoT. Dilengkapi dengan sensor suhu, kelembaban, dan detektor api.
-- **Tech:** ESP32, DHT22, Flame Sensor, Gas Sensor
-- **Features:** Real-time Monitoring, Alert System
-
-### 🧠 **Handwriting Recognition App**
-Aplikasi machine learning untuk pengenalan tulisan tangan menggunakan CNN dan RNN.
-- **Tech:** Python, CNN, RNN, TensorFlow
-
-### 🏨 **Hospitality School Website**
-Website untuk sekolah perhotelan dengan informasi lengkap, galeri, dan fitur pendaftaran.
-- **Tech:** HTML, CSS, JavaScript
-- **Type:** Community Project
-
----
-
 ## 📚 Education
 
 **Universitas Pamulang** | Teknik Informatika (Informatics Engineering)
@@ -75,59 +47,12 @@ Website untuk sekolah perhotelan dengan informasi lengkap, galeri, dan fitur pen
 
 ---
 
-## 🎯 Interests & Hobbies
-
-- 🎮 **Roblox:** Playing, Map Creation & Scripting
-- 🏎️ **Automotive:** Lexus LFA Nurburgring Edition & Koenigsegg Jesko Absolut enthusiast
-- 📸 **Photography & Videography:** Creating visual content
-- 👗 **Fashion:** Keeping up with trends
-- ☕ **Coffee & Food:** Fried Chicken, Scrambled Eggs, Noodles
-
----
-
-## 💻 My Setup
-
-- **Laptop:** ASUS Vivobook Go 14
-- **Music:** Apple Music
-- **Editor:** Visual Studio Code
-- **OS:** Windows
-
----
-
 ## 📊 GitHub Statistics
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=raihan-code&show_icons=true&theme=dark&bg_color=0d1117&border_color=30363d)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mhmdrhndeve&show_icons=true&theme=dark&bg_color=0d1117&border_color=30363d)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=raihan-code&layout=compact&theme=dark&bg_color=0d1117&border_color=30363d)
-
----
-
-## 📈 Current Focus
-
-- 🔄 Improving full-stack development skills
-- 📱 Exploring advanced Android development
-- 🚀 Building more portfolio projects
-- 💡 Contributing to community projects
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?mhmdrhndev-code&layout=compact&theme=dark&bg_color=0d1117&border_color=30363d)
 
 ---
-
-## 🤝 Let's Collaborate!
-
-I'm interested in collaborating on:
-- Web development projects
-- Mobile app development
-- IoT & embedded systems
-- Open source contributions
-- Community tech projects
-
-Feel free to reach out through my socials or email! 📧
-
----
-
-<div align="center">
-
-**⭐ If you find my projects interesting, please give them a star! It motivates me to keep creating amazing things.**
-
-Made with ❤️ by Muhammad Raihan
 
 </div>
