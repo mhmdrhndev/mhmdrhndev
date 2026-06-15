@@ -8,10 +8,22 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/muhammad-raihan-854969301/)
 [![Portfolio](https://img.shields.io/badge/Portfolio-%23FF6B6B?style=for-the-badge&logo=globe&logoColor=white)](https://portofolio-muhammadraihan.vercel.app/)
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mhmdrhndev&show_icons=true&locale=en&layout=compact" alt="mhmdrhndev" /></p>
+<p>
+  <img align="left" 
+    src="https://github-readme-stats.vercel.app/api/top-langs?username=mhmdrhndev&show_icons=true&locale=en&layout=compact&bg_color=00000000" 
+    alt="mhmdrhndev" />
+</p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mhmdrhndev&show_icons=true&locale=en" alt="mhmdrhndev" /></p>
+<p>&nbsp;
+  <img align="center" 
+    src="https://github-readme-stats.vercel.app/api?username=mhmdrhndev&show_icons=true&locale=en&bg_color=00000000" 
+    alt="mhmdrhndev" />
+</p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mhmdrhndev&" alt="mhmdrhndev" /></p>
+<p>
+  <img align="center" 
+    src="https://github-readme-streak-stats.herokuapp.com/?user=mhmdrhndev&bg_color=00000000" 
+    alt="mhmdrhndev" />
+</p>
 
 </div>
