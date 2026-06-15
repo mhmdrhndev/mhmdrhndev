@@ -22,7 +22,7 @@
 
 <p>
   <img align="center" 
-    src="https://github-readme-streak-stats.herokuapp.com/?user=mhmdrhndev&bg_color=00000000" 
+    src="https://streak-stats.demolab.com/?user=mhmdrhndev&bg_color=00000000" 
     alt="mhmdrhndev" />
 </p>
 
