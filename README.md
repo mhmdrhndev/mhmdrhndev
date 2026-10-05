@@ -2,14 +2,14 @@
 
 [![My Skills](https://skillicons.dev/icons?i=python,java,js,ts,html,css&theme=dark)](https://skillicons.dev) [![My Skills](https://skillicons.dev/icons?i=react,tailwind,vercel&theme=dark)](https://skillicons.dev) [![My Skills](https://skillicons.dev/icons?i=androidstudio,firebase,supabase&theme=dark)](https://skillicons.dev) [![My Skills](https://skillicons.dev/icons?i=git,vscode,github,google&theme=dark)](https://skillicons.dev)
 
-<p align="center">
-  <a href="https://www.instagram.com/ra1hannnnnnnnn/">
+<p align="left">
+  <a href="https://www.instagram.com/7mrhnn/">
     <img src="https://img.shields.io/badge/Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
   </a>
   <a href="https://www.linkedin.com/in/muhammad-raihan-854969301/">
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <a href="https://portofolio-muhammadraihan.vercel.app/">
+  <a href="https://muhammadraihan.vercel.app/">
     <img src="https://img.shields.io/badge/Portfolio-%23FF6B6B?style=for-the-badge&logo=globe&logoColor=white" alt="Portfolio" />
   </a>
 </p>
