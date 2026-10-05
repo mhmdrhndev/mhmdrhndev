@@ -2,7 +2,7 @@
 
 [![My Skills](https://skillicons.dev/icons?i=python,java,js,ts,html,css&theme=dark)](https://skillicons.dev) [![My Skills](https://skillicons.dev/icons?i=react,tailwind,vercel&theme=dark)](https://skillicons.dev) [![My Skills](https://skillicons.dev/icons?i=androidstudio,firebase,supabase&theme=dark)](https://skillicons.dev) [![My Skills](https://skillicons.dev/icons?i=git,vscode,github,google&theme=dark)](https://skillicons.dev)
 
-<p align="center">
+<p align="left">
   <a href="https://www.instagram.com/ra1hannnnnnnnn/">
     <img src="https://img.shields.io/badge/Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
   </a>
@@ -16,15 +16,15 @@
 
 </div>
 
-<p align="center">
+<p align="left">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=mhmdrhndev&layout=compact&bg_color=00000000&title_color=ffffff&text_color=ffffff&border_color=ffffff30" alt="Top Languages" />
 </p>
 
-<p align="center">
+<p align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=mhmdrhndev&show_icons=true&bg_color=00000000&title_color=ffffff&text_color=ffffff&icon_color=F97316&border_color=ffffff30" alt="GitHub Stats" />
 </p>
 
-<p align="center">
+<p align="left">
   <img src="https://github-readme-streak-stats-eight.vercel.app?user=mhmdrhndev&background=00000000&border=ffffff30&stroke=ffffff30&ring=F97316&fire=F97316&currStreakLabel=ffffff&sideLabels=ffffff&currStreakNum=ffffff&sideNums=ffffff&dates=aaaaaa" alt="GitHub Streak" />
 </p>
 
