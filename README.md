@@ -1,6 +1,24 @@
 # Hi, I'm Muhammad Raihan!
 
-[![My Skills](https://skillicons.dev/icons?i=python,java,js,ts,html,css,php&theme=dark)](https://skillicons.dev) [![My Skills](https://skillicons.dev/icons?i=react,tailwind,laravel,vercel&theme=dark)](https://skillicons.dev) [![My Skills](https://skillicons.dev/icons?i=androidstudio,firebase,supabase&theme=dark)](https://skillicons.dev) [![My Skills](https://skillicons.dev/icons?i=git,vscode,github,google&theme=dark)](https://skillicons.dev)
+I build web and mobile apps with React, Laravel, and Firebase.
+
+## Skills
+
+[![My Skills](https://skillicons.dev/icons?i=python,java,js,ts,html,css,php&theme=dark)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=react,tailwind,laravel,vercel&theme=dark)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=androidstudio,firebase,supabase&theme=dark)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=git,vscode,github,google&theme=dark)](https://skillicons.dev)
+
+## Featured Work
+
+| Project | What it does | Link |
+|---|---|---|
+| [project-name] | [one line: what it does] | [link] |
+| [project-name] | [one line: what it does] | [link] |
+
+Replace both rows with real repos before you push. Delete this note after.
+
+## Connect
 
 <p align="left">
   <a href="https://www.instagram.com/7mrhnn/">
@@ -14,10 +32,8 @@
   </a>
 </p>
 
-</div>
+## Activity
 
 <p align="left">
   <img src="https://github-readme-streak-stats-eight.vercel.app?user=mhmdrhndev&background=00000000&border=ffffff30&stroke=ffffff30&ring=F97316&fire=F97316&currStreakLabel=ffffff&sideLabels=ffffff&currStreakNum=ffffff&sideNums=ffffff&dates=aaaaaa" alt="GitHub Streak" />
 </p>
-
-</div>
