@@ -1,6 +1,6 @@
 # Hi, I'm Muhammad Raihan!
 
-I'm a full-stack web developer building websites and web applications with Next.jsTypeScriptTailwind CSS with SEO experience from client work. I'm currently leading development on Framelyy (a real-time online photobooth using WebRTC and Canvas API)
+I'm a full-stack web developer building websites and web applications with Next.js, TypeScript, Tailwind CSS with SEO experience from client work. I'm currently leading development on Framelyy (a real-time online photobooth using WebRTC and Canvas API)
 
 ## Skills
 
