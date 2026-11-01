@@ -1,6 +1,6 @@
 # Hi, I'm Muhammad Raihan!
 
-I build web and mobile apps with React, Laravel, and Firebase.
+I'm a full-stack web developer building websites and web applications with Next.jsTypeScriptTailwind CSS with SEO experience from client work. I'm currently leading development on Framelyy (a real-time online photobooth using WebRTC and Canvas API)
 
 ## Skills
 
