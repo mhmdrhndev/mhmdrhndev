@@ -1,6 +1,6 @@
 # Hi, I'm Muhammad Raihan!
 
-[![My Skills](https://skillicons.dev/icons?i=python,java,js,ts,html,css&theme=dark)](https://skillicons.dev) [![My Skills](https://skillicons.dev/icons?i=react,tailwind,vercel&theme=dark)](https://skillicons.dev) [![My Skills](https://skillicons.dev/icons?i=androidstudio,firebase,supabase&theme=dark)](https://skillicons.dev) [![My Skills](https://skillicons.dev/icons?i=git,vscode,github,google&theme=dark)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=python,java,js,ts,html,css,php&theme=dark)](https://skillicons.dev) [![My Skills](https://skillicons.dev/icons?i=react,tailwind,laravel,vercel&theme=dark)](https://skillicons.dev) [![My Skills](https://skillicons.dev/icons?i=androidstudio,firebase,supabase&theme=dark)](https://skillicons.dev) [![My Skills](https://skillicons.dev/icons?i=git,vscode,github,google&theme=dark)](https://skillicons.dev)
 
 <p align="left">
   <a href="https://www.instagram.com/7mrhnn/">
