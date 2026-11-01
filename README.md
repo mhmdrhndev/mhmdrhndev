@@ -17,14 +17,6 @@
 </div>
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=mhmdrhndev&layout=compact&bg_color=00000000&title_color=ffffff&text_color=ffffff&border_color=ffffff30" alt="Top Languages" />
-</p>
-
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=mhmdrhndev&show_icons=true&bg_color=00000000&title_color=ffffff&text_color=ffffff&icon_color=F97316&border_color=ffffff30" alt="GitHub Stats" />
-</p>
-
-<p align="left">
   <img src="https://github-readme-streak-stats-eight.vercel.app?user=mhmdrhndev&background=00000000&border=ffffff30&stroke=ffffff30&ring=F97316&fire=F97316&currStreakLabel=ffffff&sideLabels=ffffff&currStreakNum=ffffff&sideNums=ffffff&dates=aaaaaa" alt="GitHub Streak" />
 </p>
 
