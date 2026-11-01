@@ -13,7 +13,7 @@ I'm a full-stack web developer building websites and web applications with Next.
 
 | Project | What it does | Link |
 |---|---|---|
-| [project-name] | [one line: what it does] | [link] |
+| Framelyy | Free online photobooth, strips and collabs in browser, photos stay on device | https://framelyy.vercel.app/ |
 | [project-name] | [one line: what it does] | [link] |
 
 Replace both rows with real repos before you push. Delete this note after.
